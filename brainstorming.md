@@ -2,7 +2,7 @@
 
 ## Ideas
 
-1. Gamified to-do list
+1. **Gamified to-do list**
 - **Description**: A to-do list app with incentives to complete your tasks
 - **Category**: Productivity
 - **Mobile**: Instead of having to go to a website/link every time, it is easier to have an app that the user can open. Also, sometimes websites do not save information over different sessions so an app will be able to fix this issue.
@@ -11,7 +11,7 @@
 - **Habit**: This app should incentivize building a habit of making and completing to-do lists. The game aspect can reward completion of tasks as well as logging in daily.
 - **Scope**: This app should not be very difficult. It does depend on what sort of game I would implement, but I think it will be doable.
 
-1. Budget tracker
+1. **Budget tracker**
 - **Description**: Keeps track of your spendings and weekly budget
 - **Category**: Lifestyle
 - **Mobile**: Instead of having to go to a website/link every time, it is easier to have an app that the user can open. Also, sometimes websites do not save information over different sessions so an app will be able to fix this issue.
@@ -20,19 +20,19 @@
 - **Habit**: To keep track of how much the user has spent, they should try to enter their spendings consistently. This should lead to them using the app as a habit.
 - **Scope**: This app should not be very difficult. I think it will be doable.
 
-1. Idle game
+1. **Idle game**
 - **Description**: A game where you can tap and gain progress throughout different levels (Similar to cookie clickers)
 
-1. Friends' Timezones
+1. **Friends' Timezones**
 - **Description**: An app where you can add your friends and see their timezones (maybe add an option to set free time)
 
-1. Guessing Game
+1. **Guessing Game**
 - **Description**: With different estimating questions (e.g. "How many cemetries are in NYC?"), users can test their guessing skills.
 
-1. Meal Plans
+1. **Meal Plans**
 - **Description**: Gives different meals that can be made with the given data of which ingredients are available.
 
-##Final Decision
+## Final Decision
 
 **Note**: I took part in a hackathon over the weekend and started creating a bullet journal app with a game aspect. I would like to keep working on this app. (While I had a groupmate help with the design of the app, the entirety of the programming has been my work.)
 
