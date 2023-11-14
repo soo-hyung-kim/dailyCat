@@ -15,19 +15,20 @@ Daily Cat tracks the user's habits on water, meals, mood, and spending. Once the
 ## Product Spec
 
 **Required Features**:
-- User can add their data
-- User can edit their data
-- State of cat and its room changes based on data input
+[] User can add their data
+[] User can delete their data
+[] State of cat and its room changes based on data input
 
 **Optional Features**:
-- User can delete data
+[] User can add their data for budget tracker
+[] User can delete their data for budget tracker
 
 **Screens**:
-- Cat Screen: User can look at the cat
-- Journal Screen: User can look at their data
-- Budget Screen: User can look at their data
-- Add/Edit Habits Screen: User can edit/add their data
-- Add/Edit Spendings/Budget Screen: User can edit/add their data
+[X] Cat Screen: User can look at the cat
+[X] Journal Screen: User can look at their data
+[X] Budget Screen: User can look at their data
+[X] Add/Edit Habits Screen: User can edit/add their data
+[] Add/Edit Spendings/Budget Screen: User can edit/add their data
 
 **Tab Navigation**:
 - Cat
@@ -44,7 +45,15 @@ Daily Cat tracks the user's habits on water, meals, mood, and spending. Once the
 **Wireframes**:
 ![](/wireframes.jpg)
 
-## Week 8 Updates
+## Updates
+
+**Week 9**
+
+![](/editScreen.jpg)
+
+Note: I am currently working on building an edit screen for users to edit their data. Since it does not work as of right now, I've attached a screenshot of what it looks like. Once I get it working, I will update again.
+
+**Week 8**
 
 <a href="https://www.loom.com/share/2efc5d81932b4be0811dec27b13ce3a1">
     <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/2efc5d81932b4be0811dec27b13ce3a1-with-play.gif">
