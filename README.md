@@ -15,20 +15,20 @@ Daily Cat tracks the user's habits on water, meals, mood, and spending. Once the
 ## Product Spec
 
 **Required Features**:
-[] User can add their data
-[] User can delete their data
-[] State of cat and its room changes based on data input
+- [] User can add their data
+- [] User can delete their data
+- [] State of cat and its room changes based on data input
 
 **Optional Features**:
-[] User can add their data for budget tracker
-[] User can delete their data for budget tracker
+- [] User can add their data for budget tracker
+- [] User can delete their data for budget tracker
 
 **Screens**:
-[X] Cat Screen: User can look at the cat
-[X] Journal Screen: User can look at their data
-[X] Budget Screen: User can look at their data
-[X] Add/Edit Habits Screen: User can edit/add their data
-[] Add/Edit Spendings/Budget Screen: User can edit/add their data
+- [X] Cat Screen: User can look at the cat
+- [X] Journal Screen: User can look at their data
+- [X] Budget Screen: User can look at their data
+- [X] Add/Edit Habits Screen: User can edit/add their data
+- [] Add/Edit Spendings/Budget Screen: User can edit/add their data
 
 **Tab Navigation**:
 - Cat
