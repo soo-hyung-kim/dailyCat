@@ -53,6 +53,14 @@ Daily Cat tracks the user's habits on water, meals, mood, and spending. Once the
 
 Note: I am currently working on building an edit screen for users to edit their data. Since it does not work as of right now, I've attached a screenshot of what it looks like. Once I get it working, I will update again.
 
+**Update**:
+
+<a href="https://www.loom.com/share/c746765c81184de693411b3581b304b8">
+    <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/c746765c81184de693411b3581b304b8-with-play.gif">
+</a>
+
+I was having trouble with trying to link the Edit button on specific journal entries and finally got it to work. It now brings up an edit screen. Next thing I will be working on is allowing users to edit/add the data and have the corresponding entries update accordingly.
+
 **Week 8**
 
 <a href="https://www.loom.com/share/2efc5d81932b4be0811dec27b13ce3a1">

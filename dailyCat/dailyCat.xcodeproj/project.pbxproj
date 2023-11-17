@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4C24F6C32B07121400B8F766 /* JournalEditViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C24F6C22B07121400B8F766 /* JournalEditViewController.swift */; };
 		4C2624BC2AF6AADD00C288DC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C2624BB2AF6AADD00C288DC /* AppDelegate.swift */; };
 		4C2624BE2AF6AADD00C288DC /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C2624BD2AF6AADD00C288DC /* SceneDelegate.swift */; };
 		4C2624C02AF6AADD00C288DC /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C2624BF2AF6AADD00C288DC /* ViewController.swift */; };
@@ -25,6 +26,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4C24F6C22B07121400B8F766 /* JournalEditViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JournalEditViewController.swift; sourceTree = "<group>"; };
 		4C2624B82AF6AADD00C288DC /* Daily Cat.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Daily Cat.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4C2624BB2AF6AADD00C288DC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4C2624BD2AF6AADD00C288DC /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -80,6 +82,7 @@
 				4C2624DD2AF7E46B00C288DC /* sadMood.png */,
 				4C2624DB2AF7E46100C288DC /* happyMood.png */,
 				4C2624C12AF6AADD00C288DC /* Main.storyboard */,
+				4C24F6C22B07121400B8F766 /* JournalEditViewController.swift */,
 				4C2624E72AF7FC1A00C288DC /* progressBar.png */,
 				4C2624E32AF7F41400C288DC /* CircularProgressBarView.swift */,
 				4C2624E52AF7F67F00C288DC /* BudgetViewController.swift */,
@@ -177,6 +180,7 @@
 				4C2624E22AF7EF6700C288DC /* JournalViewController.swift in Sources */,
 				4C2624D62AF7C9BE00C288DC /* JournalCell.swift in Sources */,
 				4C2624E62AF7F67F00C288DC /* BudgetViewController.swift in Sources */,
+				4C24F6C32B07121400B8F766 /* JournalEditViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

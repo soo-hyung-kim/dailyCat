@@ -30,7 +30,24 @@ class JournalViewController: UIViewController {
     
     @IBOutlet weak var journalLabel: UILabel!
     
+
+    @IBAction func editJournal(_ sender: Any) {
+        performSegue(withIdentifier: "ComposeSegue", sender: nil)
+    }
+    
     var journal: Journal!
+    
+    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
+        if segue.identifier == "ComposeSegue" {
+            // 2.
+            // i.
+            if let destination = segue.destination as? JournalEditViewController {
+
+                // 3.
+
+                }
+            }
+    }
 
     override func viewDidLoad() {
         super.viewDidLoad()
