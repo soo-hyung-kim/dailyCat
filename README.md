@@ -47,6 +47,14 @@ Daily Cat tracks the user's habits on water, meals, mood, and spending. Once the
 
 ## Updates
 
+**Week 10**
+
+<a href="https://www.loom.com/share/098bd5f9da634c1f89ef8ffc7df1c958">
+    <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/098bd5f9da634c1f89ef8ffc7df1c958-with-play.gif">
+</a>
+
+I did not get a chance to work on this project since I had (and still have) a lot of work to do before my Thanksgiving break. I will be able to work more on this on Wednesday so I am hoping to update this then.
+
 **Week 9**
 
 ![](/editScreen.jpg)
